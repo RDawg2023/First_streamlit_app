@@ -1,1 +1,3 @@
-Created Teh main Python File 
+import streamlit
+
+streamlit.title('my paretnes new healty diner')
